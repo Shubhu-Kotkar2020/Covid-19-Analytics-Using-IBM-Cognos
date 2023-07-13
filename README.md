@@ -44,6 +44,7 @@ Overall, the COVID-19 Analytics Dashboard using IBM Cognos aims to support data-
 
 
 2.	Literature Survey
+   
 2.1	Existing Problem
 The COVID-19 pandemic has created an urgent need for accurate and timely information to effectively respond to the crisis. However, there are several challenges and problems related to accessing, analyzing, and visualizing COVID-19 data. Some of the existing problems that the COVID-19 Analytics Dashboard using IBM Cognos aims to address are:
 1.	Data Fragmentation: COVID-19 data is often scattered across various sources, including government reports, public health databases, and research institutions. This fragmentation makes it difficult to gather and integrate data from different locations and consolidate it into a unified view.
